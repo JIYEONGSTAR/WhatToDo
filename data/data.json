@@ -7,6 +7,10 @@
     {
       "id": 2,
       "area": "전주"
+    },
+    {
+      "area": "부산",
+      "id": 3
     }
   ],
   "category": [
@@ -39,6 +43,22 @@
       "name": "경기전",
       "detail": "한옥마을 안에 있으며 어전을 볼 수 있다.",
       "visited": true
+    },
+    {
+      "areaName": "장소",
+      "categoryName": "유형",
+      "name": "00호텔",
+      "detail": "경복궁역에서 걸어서 5분, 조식포함",
+      "visited": false,
+      "id": 3
+    },
+    {
+      "areaName": "부산",
+      "categoryName": "유형",
+      "name": "부산바캉스",
+      "detail": "인스타맛집",
+      "visited": false,
+      "id": 4
     }
   ]
 }
