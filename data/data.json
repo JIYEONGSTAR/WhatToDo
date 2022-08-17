@@ -1,0 +1,44 @@
+{
+  "area": [
+    {
+      "id": 1,
+      "area": "경복궁"
+    },
+    {
+      "id": 2,
+      "area": "전주"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "category": "음식"
+    },
+    {
+      "id": 2,
+      "category": "관광지"
+    },
+    {
+      "id": 3,
+      "category": "숙소"
+    }
+  ],
+  "travel": [
+    {
+      "id": 1,
+      "areaName": "경복궁",
+      "categoryName": "관광지",
+      "name": "광화문",
+      "detail": "경복궁역에서 내려서 걸어서 광화문광장을 간다. 주변에는 교보문고 등 구경할 곳이 있다.",
+      "visited": false
+    },
+    {
+      "id": 2,
+      "areaName": "전주",
+      "categoryName": "관광지",
+      "name": "경기전",
+      "detail": "한옥마을 안에 있으며 어전을 볼 수 있다.",
+      "visited": true
+    }
+  ]
+}
